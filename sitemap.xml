@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://yudarksoul.github.io/chaos/</loc>
     <lastmod>2022-08-24T10:24:16-04:00</lastmod>
   </url><url>
-    <loc>/post/second/</loc>
+    <loc>https://yudarksoul.github.io/chaos/post/second/</loc>
     <lastmod>2022-08-24T10:24:16-04:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://yudarksoul.github.io/chaos/post/</loc>
     <lastmod>2022-08-24T10:24:16-04:00</lastmod>
   </url><url>
-    <loc>/post/first/</loc>
+    <loc>https://yudarksoul.github.io/chaos/post/first/</loc>
     <lastmod>2015-03-14T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://yudarksoul.github.io/chaos/about/</loc>
     <lastmod>2015-03-12T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://yudarksoul.github.io/chaos/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://yudarksoul.github.io/chaos/tags/</loc>
   </url>
 </urlset>
