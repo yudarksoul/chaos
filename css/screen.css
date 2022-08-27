@@ -873,11 +873,12 @@ body.nav-opened .menu-button .word {
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title {
     margin: 10px 0 10px 0;
-    font-size: 5rem;
+    font-size: 10rem;
     letter-spacing: -1px;
     font-weight: 700;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Merriweather';
     color: #fff;
+    text-shadow: 0 0 20px #d31919;
 }
 
 .page-description {
