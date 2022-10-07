@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on CHAOS 聯盟</title>
-    <link>https://yudarksoul.github.io/chaos/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on CHAOS 聯盟</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Oct 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://yudarksoul.github.io/chaos/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Oct 2022 05:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hell塔攻略</title>
-      <link>https://yudarksoul.github.io/chaos/post/tower/</link>
+      <link>/post/tower/</link>
       <pubDate>Fri, 07 Oct 2022 05:00:00 +0000</pubDate>
       
-      <guid>https://yudarksoul.github.io/chaos/post/tower/</guid>
-      <description>2022-10-07 Hell塔組合 </description>
+      <guid>/post/tower/</guid>
+      <description>2022-10-07 Hell塔組合 感謝冷大提供 </description>
     </item>
     
     <item>
       <title>CHAOS聯盟 招人</title>
-      <link>https://yudarksoul.github.io/chaos/post/second/</link>
+      <link>/post/second/</link>
       <pubDate>Wed, 24 Aug 2022 10:24:16 -0400</pubDate>
       
-      <guid>https://yudarksoul.github.io/chaos/post/second/</guid>
+      <guid>/post/second/</guid>
       <description>誠徵喜愛魔靈的小夥伴，一起打據點、世界公會戰，刷史萊姆王。
 史萊姆王:開始時間為禮拜三中午</description>
     </item>
     
     <item>
       <title>CHAOS聯盟 成立日</title>
-      <link>https://yudarksoul.github.io/chaos/post/first/</link>
+      <link>/post/first/</link>
       <pubDate>Sat, 14 Mar 2015 12:00:00 +0000</pubDate>
       
-      <guid>https://yudarksoul.github.io/chaos/post/first/</guid>
+      <guid>/post/first/</guid>
       <description>CHAOS聯盟 正式成立，由隊友號召一起遊戲於魔靈的世界吧!!</description>
     </item>
     
