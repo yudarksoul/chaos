@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CHAOS 聯盟</title>
-    <link>/</link>
+    <link>https://yudarksoul.github.io/chaos/</link>
     <description>Recent content on CHAOS 聯盟</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Oct 2022 05:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Oct 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://yudarksoul.github.io/chaos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hell塔攻略</title>
-      <link>/post/tower/</link>
+      <link>https://yudarksoul.github.io/chaos/post/tower/</link>
       <pubDate>Fri, 07 Oct 2022 05:00:00 +0000</pubDate>
       
-      <guid>/post/tower/</guid>
+      <guid>https://yudarksoul.github.io/chaos/post/tower/</guid>
       <description>2022-10-07 Hell塔組合 感謝冷大提供 </description>
     </item>
     
     <item>
       <title>CHAOS聯盟 招人</title>
-      <link>/post/second/</link>
+      <link>https://yudarksoul.github.io/chaos/post/second/</link>
       <pubDate>Wed, 24 Aug 2022 10:24:16 -0400</pubDate>
       
-      <guid>/post/second/</guid>
+      <guid>https://yudarksoul.github.io/chaos/post/second/</guid>
       <description>誠徵喜愛魔靈的小夥伴，一起打據點、世界公會戰，刷史萊姆王。
 史萊姆王:開始時間為禮拜三中午</description>
     </item>
     
     <item>
       <title>CHAOS聯盟 成立日</title>
-      <link>/post/first/</link>
+      <link>https://yudarksoul.github.io/chaos/post/first/</link>
       <pubDate>Sat, 14 Mar 2015 12:00:00 +0000</pubDate>
       
-      <guid>/post/first/</guid>
+      <guid>https://yudarksoul.github.io/chaos/post/first/</guid>
       <description>CHAOS聯盟 正式成立，由隊友號召一起遊戲於魔靈的世界吧!!</description>
     </item>
     
     <item>
       <title>關於我們</title>
-      <link>/about/</link>
+      <link>https://yudarksoul.github.io/chaos/about/</link>
       <pubDate>Thu, 12 Mar 2015 12:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://yudarksoul.github.io/chaos/about/</guid>
       <description>這是一場愛與勇氣的冒險故事(笑). </description>
     </item>
     
